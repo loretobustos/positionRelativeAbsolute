@@ -1,0 +1,52 @@
+.cabezera {
+    width: 100%;
+    background-color: aqua;
+    height: 300px;
+    text-align: center;
+    padding: 40px;
+    border: 5px solid red;
+    padding: 10px;
+    position: relative;
+} 
+.cajita {
+    background-color: blue;
+    width: 200px;
+    height: 300px;
+    top: 100px;
+    left: 60px;
+   
+}
+.cajita1{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    right: 30px;
+top: 200px;
+
+ }
+.cajita p {
+    overflow: hidden;
+    font-size: 30px;
+
+}
+
+
+
+/* main {
+    display: flex;
+}
+section {
+    padding: 10px;
+    margin: 30px;
+}
+.lilo {
+    background-color: blue;
+} */
+/* 
+.texto {
+    background-color: blue;
+   height: 300px;
+   width: 300px;
+   border-radius: 50%;
+}  */
